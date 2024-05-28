@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Rajesh Jotiba Bhosale
+## A Passionate Computer Science Student
 
-<!--
-**RajBhosale12/RajBhosale12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:-
+ 🎓 I’m a fresher B.Tech student majoring in Computer Science.
+ 💻 I have a keen interest in problem-solving, coding, and continuous learning.
 
-Here are some ideas to get you started:
+Skills:-
+ Programming Languages: C, C++, Java, Python
+ Web Development: HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+How to Reach Me:-
+📫 Email: rajeshbhosale894@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/rajesh
+bhosale-130606234
+
+Thank you for visiting my profile!
