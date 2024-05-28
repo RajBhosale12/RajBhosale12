@@ -11,6 +11,6 @@ Skills:-
 
 How to Reach Me:-
 📫 Email: rajeshbhosale894@gmail.com
-💼 LinkedIn: https://www.linkedin.com/in/rajeshbhosale-130606234
+💼 LinkedIn: https://www.linkedin.com/in/rajeshbhosale-130606234 
 
 Thank you for visiting my profile!
